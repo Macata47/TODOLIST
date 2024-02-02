@@ -1,0 +1,27 @@
+body{
+    background-image: url('img/pizarra.jpg'); 
+    background-size: cover; 
+    background-position: center fixed; 
+    background-repeat: no-repeat;  
+    font-family: 'Protest Riot', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.transparent-card {
+    background-color: rgba(255, 255, 255, 0.02); 
+    border: 1px solid rgba(0, 0, 0, 0.125); 
+
+}
+
+.list-group{
+    background-color: rgba(255, 255, 255, 0.02); 
+    border: 1px solid rgba(0, 0, 0, 0.125); 
+}
+
+
+.subrayado{
+    text-decoration: line-through;
+}
