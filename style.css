@@ -8,20 +8,29 @@ body{
     margin: 0px;
 }
 
-
+.h1{
+    color: white;
+}
 
 .transparent-card {
-    background-color: rgba(255, 255, 255, 0.02); 
-    border: 1px solid rgba(0, 0, 0, 0.125); 
+    background-color: rgba(255, 255, 255, 0.0); 
+    border: none;
 
 }
 
-.list-group{
-    background-color: rgba(255, 255, 255, 0.02); 
-    border: 1px solid rgba(0, 0, 0, 0.125); 
+.label{
+    background-color: rgba(255, 255, 255, 0.0); 
+    color: white;
+    border: none;
 }
 
+.list-group-item-success{
+    background-color: rgba(255, 255, 255, 0.0); 
+    color: white;
+    border: none;
+}
 
 .subrayado{
     text-decoration: line-through;
+    text-decoration-color: red;
 }
